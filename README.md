@@ -34,3 +34,9 @@ Looking forward to add more.
 	> Removing vowels from given string.
 * Fibonacci Series: [V1 Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Fibonacci%20Series%20v1.py) - [V2 Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Fibonacci%20Series%20v2.py)
 	> Creating Fibonacci [Number sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence). Version 1 is using recursive, an Version 2 is using loop which can be easily scalable.
+* Factorial: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Factorial.py)
+	> Given the input number, list all the [Factorial](https://en.wikipedia.org/wiki/Factorial) result from 1 to that number with the grand total in the end.
+* Key-Value Database: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Key-Value%20Database.py)
+	> Receiving input to create a Key-Value database using Python dictionary.
+* LCD and GCD: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/LCD%20and%20GCD.py)
+    > Listing all the common denominator from two given numbers, resulting in [LCD](https://en.wikipedia.org/wiki/Lowest_common_denominator) and [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor)
