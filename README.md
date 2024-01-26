@@ -11,7 +11,7 @@ Looking forward to add more.
 	* Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
 
  ## Python:
- ### Note Books:
+ ### Notebooks:
 * Card War Game: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Card%20War%20Game.ipynb)
 	> Automated Card War Games.
 * CodingBat Code Practice: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Notebooks/CodingBat%20Code%20Practice.ipynb)
