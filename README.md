@@ -12,25 +12,25 @@ Looking forward to add more.
 
  ## Python:##
  ### Note Books:###
-	* Card War Game: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Card%20War%20Game.ipynb)
- 	* Automated Card War Games.
-	* CodingBat Code Practice: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Notebooks/CodingBat%20Code%20Practice.ipynb)
- 	* Various exercise from [CodingBat Python](https://codingbat.com/python) website.
+* Card War Game: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Card%20War%20Game.ipynb)
+	> Automated Card War Games.
+* CodingBat Code Practice: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Notebooks/CodingBat%20Code%20Practice.ipynb)
+	> Various exercise from [CodingBat Python](https://codingbat.com/python) website.
 
 ### Singletons:###
 * Mobius Strip: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Mobius%20Strip.py)
-	* Utilizing `matplotlib.pyplot`, creating a chart in a form of famous [Mobious Strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
+	> Utilizing `matplotlib.pyplot`, creating a chart in a form of famous [Mobious Strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
 * Modern Email ReGex: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Modern%20Email%20ReGex.py)
-	* Email validation and cleanup function, putting into account the ability of GMail to [use `+` and `.`](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) in email address.
+	> Email validation and cleanup function, putting into account the ability of GMail to [use `+` and `.`](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) in email address.
 * Number Worder: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Number%20Worder.py)
-	* Function to translate number into word (e.g. `1` to `one`), up to Novemdecillion (10<sup>60</sup>).
+	> Function to translate number into word (e.g. `1` to `one`), up to Novemdecillion (10<sup>60</sup>).
 * PlusMinus: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/PlusMinus.py)
-	* Based on two numbers, find the middle number and a number which can be substracted and added to find back the initial numbers.
+	> Based on two numbers, find the middle number and a number which can be substracted and added to find back the initial numbers.
 * Prime Number: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Prime%20Number.py)
-	* Receiving input, then list all the prime number from 1 to that number, then count and total them.
+	> Receiving input, then list all the prime number from 1 to that number, then count and total them.
 * Three Dimensional Points and Lines: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Three%20Dimensional%20Points%20and%20Lines.py)
-	* Utilizing `matplotlib.pyplot`, creating a chart in a shape of a spring.
+	> Utilizing `matplotlib.pyplot`, creating a chart in a shape of a spring.
 * Anti Vowel: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Anti%20Vowel.py)
-	* Removing vowels from given string.
+	> Removing vowels from given string.
 * Fibonacci Series: [V1 Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Fibonacci%20Series%20v1.py) - [V2 Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Fibonacci%20Series%20v2.py)
-	* Creating Fibonacci Number series. Version 1 is using recursive, an Version 2 is using loop which can be easily scalable.
+	> Creating Fibonacci Number series. Version 1 is using recursive, an Version 2 is using loop which can be easily scalable.
