@@ -5,8 +5,8 @@ Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all 
 Looking forward to add more.
 
 ## Navigation:
-* [Spreadsheet](#spreadsheets)
-* [Python](#python)
+* [Spreadsheets](#spreadsheets)
+* [Python Scripts](#python)
     * [Notebooks](#notebooks)
     * [Singletons](#singletons)
 
@@ -16,7 +16,7 @@ Looking forward to add more.
 * Contract Mapping Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDbbqJsxwK4afVKy83sv6YXPaaIl9ok2P2jR1xXzy6KRqVnr7FmDoMkcqU9hig6afMdeezVcw7XkSH/pubhtml?gid=2010534843) - [Source](https://docs.google.com/spreadsheets/d/1K-FOcZb0SAYr0Sp-IiV6OhutCgJqUPzJfLutC1Juxas/edit#gid=2010534843)
 	* Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
 
- ## Python:
+ ## Python Scripts:
  ### Notebooks: [↑](#portfolio)
 * Card War Game: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Card%20War%20Game.ipynb)
 	> Automated Card War Games.
