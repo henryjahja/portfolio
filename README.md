@@ -18,6 +18,10 @@ Looking forward to add more.
 
  ## Python Scripts:
  ### Notebooks: [↑](#portfolio)
+* NumPy: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NumPy.ipynb)
+	> NumPy quick showcase.
+* Pandas: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Pandas.ipynb)
+	> Pandas quick showcase.
 * Card War Game: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Card%20War%20Game.ipynb)
 	> Automated Card War Games.
 * CodingBat Code Practice: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Notebooks/CodingBat%20Code%20Practice.ipynb)
@@ -46,6 +50,10 @@ Looking forward to add more.
 	> Receiving input to create a Key-Value database using Python dictionary.
 * LCD and GCD: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/LCD%20and%20GCD.py)
     > Listing all the common denominator from two given numbers, resulting in [LCD](https://en.wikipedia.org/wiki/Lowest_common_denominator) and [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor)
+
+### [WIP] Natural Language Processing:
+* IMDB Sentiment with TensorFlow: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NLP/IMDB%20Sentiment.ipynb)
+
 
 \<End of page\>  
 [Back to top](#portfolio)
