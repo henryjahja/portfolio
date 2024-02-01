@@ -3,21 +3,34 @@ This is a repository dedicated to showcase my work.
 Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all other.
 
 Looking forward to add more.
-
-## Navigation:
+# Navigation:
 * [Spreadsheets](#spreadsheets)
-* [Python Scripts](#python)
-    * [Notebooks](#notebooks)
-    * [Singletons](#singletons)
+* <details>
+	<summary><a href='#python'>Python Scripts</summary>
+
+	* [Notebooks](#notebooks)
+	* [Singletons](#singletons)
+</details>
 
 ## Spreadsheets: [↑](#portfolio)
-* Live Stream Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPpohpE9nM2wgg03Rz9_KHRiGSK3N4h98suac3-zH7JRd34xqJqkrTR_a6ibL7tskIie_Jtt9wIUVA/pubhtml?gid=1555657742) - [Source](https://docs.google.com/spreadsheets/d/1HMeI2ipcu_GdsvO-wN2YysAt-5tAPA8voVmSZwiDhpo/edit#gid=1555657742)
-	* Showcasing various formulas used on mock live stream data, including string manipulation, `VLOOKUP`, `QUERY` and more.
-* Contract Mapping Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDbbqJsxwK4afVKy83sv6YXPaaIl9ok2P2jR1xXzy6KRqVnr7FmDoMkcqU9hig6afMdeezVcw7XkSH/pubhtml?gid=2010534843) - [Source](https://docs.google.com/spreadsheets/d/1K-FOcZb0SAYr0Sp-IiV6OhutCgJqUPzJfLutC1Juxas/edit#gid=2010534843)
-	* Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
+<details>
+	<summary>Click to Expand</summary>
 
- ## Python Scripts:
- ### Notebooks: [↑](#portfolio)
+* Live Stream Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPpohpE9nM2wgg03Rz9_KHRiGSK3N4h98suac3-zH7JRd34xqJqkrTR_a6ibL7tskIie_Jtt9wIUVA/pubhtml?gid=1555657742) - [Source](https://docs.google.com/spreadsheets/d/1HMeI2ipcu_GdsvO-wN2YysAt-5tAPA8voVmSZwiDhpo/edit#gid=1555657742)
+	> Showcasing various formulas used on mock live stream data, including string manipulation, `VLOOKUP`, `QUERY` and more.
+* Contract Mapping Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDbbqJsxwK4afVKy83sv6YXPaaIl9ok2P2jR1xXzy6KRqVnr7FmDoMkcqU9hig6afMdeezVcw7XkSH/pubhtml?gid=2010534843) - [Source](https://docs.google.com/spreadsheets/d/1K-FOcZb0SAYr0Sp-IiV6OhutCgJqUPzJfLutC1Juxas/edit#gid=2010534843)
+	> Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
+
+</details>
+
+## Python Scripts:
+<details>
+	<summary>Click to Expand</summary>
+
+### Notebooks: [↑](#portfolio)
+<details>
+	<summary>Click to Expand</summary>
+
 * NumPy: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NumPy.ipynb)
 	> NumPy quick showcase.
 * Pandas: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/Pandas.ipynb)
@@ -27,7 +40,12 @@ Looking forward to add more.
 * CodingBat Code Practice: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Notebooks/CodingBat%20Code%20Practice.ipynb)
 	> Various exercise from [CodingBat Python](https://codingbat.com/python) website.
 
+</details>
+
 ### Singletons: [↑](#portfolio)
+ <details>
+	<summary>Click to Expand</summary>
+
 * Mobius Strip: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Mobius%20Strip.py)
 	> Utilizing `matplotlib.pyplot`, creating a chart in a form of famous [Mobious Strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
 * Modern Email ReGex: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/Modern%20Email%20ReGex.py)
@@ -51,9 +69,13 @@ Looking forward to add more.
 * LCD and GCD: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/Singletons/LCD%20and%20GCD.py)
     > Listing all the common denominator from two given numbers, resulting in [LCD](https://en.wikipedia.org/wiki/Lowest_common_denominator) and [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor)
 
+</details>
+
 ### [WIP] Natural Language Processing:
 * IMDB Sentiment with TensorFlow: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NLP/IMDB%20Sentiment.ipynb)
 
+</details>
+<br>
 
 \<End of page\>  
 [Back to top](#portfolio)
