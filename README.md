@@ -4,12 +4,12 @@ Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all 
 
 Looking forward to add more.
 # Navigation:
-* [Spreadsheets](#spreadsheets)
+* [Spreadsheets](#spreadsheets-)
 * <details>
-	<summary><a href='#python'>Python Scripts</summary>
+	<summary><a href='#python-scripts'>Python Scripts</summary>
 
-	* [Notebooks](#notebooks)
-	* [Singletons](#singletons)
+	* [Notebooks](#notebooks-)
+	* [Singletons](#singletons-)
 </details>
 
 ## Spreadsheets: [↑](#portfolio)
