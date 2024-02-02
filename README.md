@@ -20,8 +20,6 @@ Looking forward to add more.
 	* [T3 Information System (CodeIgniter PHP)](https://github.com/henryjahja/t3informationsystem)
 </details>
 
-*deta
-
 <h3 id="spreadsheets">Spreadsheets:</h3>
 <details>
 	<summary>Click to Expand</summary>
