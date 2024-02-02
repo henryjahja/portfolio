@@ -6,11 +6,21 @@ Looking forward to add more.
 # Navigation:
 * [Spreadsheets](#spreadsheets)
 * <details>
-	<summary><a href='#python-scripts'>Python Scripts</summary>
-
+	<summary><a href='#python-scripts'>Python Scripts</a></summary>
+	
 	* [Notebooks](#notebooks)
 	* [Singletons](#singletons)
 </details>
+
+* <details>
+	<summary>Old Repositories</summary>
+
+	* [Hong-Kong University Web Page Course Submission (HTML, CSS, JavaScript)](https://github.com/henryjahja/t3informationsystem)
+	* [Dhea Thesis (Vanilla PHP)](https://github.com/henryjahja/dhea-konseling)
+	* [T3 Information System (CodeIgniter PHP)](https://github.com/henryjahja/t3informationsystem)
+</details>
+
+*deta
 
 <h3 id="spreadsheets">Spreadsheets:</h3>
 <details>
