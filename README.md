@@ -5,7 +5,7 @@ Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all 
 Looking forward to add more.
 #### Navigation:
 * [Python](#python-scripts)
-* [Google Spreadsheets](#spreadsheets)
+* [Google Spreadsheet](#google-spreadsheet)
 * [Old Repositories](#old-repositories)
 
 <h2 id="python-scripts">Python:</h2>
@@ -66,7 +66,7 @@ Looking forward to add more.
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
 
-<h2 id="spreadsheets">Spreadsheets:</h2>
+<h2 id="google-spreadsheet">Google Spreadsheet:</h2>
 <details>
 	<summary>[Expand]</summary>
 
