@@ -3,36 +3,12 @@ This is a repository dedicated to showcase my work.
 Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all other.
 
 Looking forward to add more.
-# Navigation:
-* [Spreadsheets](#spreadsheets)
-* <details>
-	<summary><a href='#python-scripts'>Python Scripts</a></summary>
-	
-	* [Notebooks](#notebooks)
-	* [Singletons](#singletons)
-</details>
+#### Navigation:
+* [Python](#python-scripts)
+* [Google Spreadsheets](#spreadsheets)
+* [Old Repositories](#old-repositories)
 
-* <details>
-	<summary>Old Repositories</summary>
-
-	* [Hong-Kong University Web Page Course Submission (HTML, CSS, JavaScript)](https://github.com/henryjahja/t3informationsystem)
-	* [Dhea Thesis (Vanilla PHP)](https://github.com/henryjahja/dhea-konseling)
-	* [T3 Information System (CodeIgniter PHP)](https://github.com/henryjahja/t3informationsystem)
-</details>
-
-<h3 id="spreadsheets">Spreadsheets:</h3>
-<details>
-	<summary>Click to Expand</summary>
-
-* Live Stream Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPpohpE9nM2wgg03Rz9_KHRiGSK3N4h98suac3-zH7JRd34xqJqkrTR_a6ibL7tskIie_Jtt9wIUVA/pubhtml?gid=1555657742) - [Source](https://docs.google.com/spreadsheets/d/1HMeI2ipcu_GdsvO-wN2YysAt-5tAPA8voVmSZwiDhpo/edit#gid=1555657742)
-	> Showcasing various formulas used on mock live stream data, including string manipulation, `VLOOKUP`, `QUERY` and more.
-* Contract Mapping Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDbbqJsxwK4afVKy83sv6YXPaaIl9ok2P2jR1xXzy6KRqVnr7FmDoMkcqU9hig6afMdeezVcw7XkSH/pubhtml?gid=2010534843) - [Source](https://docs.google.com/spreadsheets/d/1K-FOcZb0SAYr0Sp-IiV6OhutCgJqUPzJfLutC1Juxas/edit#gid=2010534843)
-	> Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
-<p align="right"><a href="#portfolio">Back to top</a></p>
-</details>
-
-
-<h3 id="python-scripts">Python Scripts:</h3>
+<h2 id="python-scripts">Python:</h2>
 <details>
 		<summary>
 		<b id="notebooks">Notebooks</b>
@@ -81,12 +57,34 @@ Looking forward to add more.
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
 
-
 <details>
 	<summary>
 	<b>[WIP] Natural Language Processing</b>
 	</summary>
 
 * IMDB Sentiment with TensorFlow: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NLP/IMDB%20Sentiment.ipynb)
+<p align="right"><a href="#portfolio">Back to top</a></p>
+</details>
+
+<h2 id="spreadsheets">Spreadsheets:</h2>
+<details>
+	<summary>[Expand]</summary>
+
+* Live Stream Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPpohpE9nM2wgg03Rz9_KHRiGSK3N4h98suac3-zH7JRd34xqJqkrTR_a6ibL7tskIie_Jtt9wIUVA/pubhtml?gid=1555657742) - [Source](https://docs.google.com/spreadsheets/d/1HMeI2ipcu_GdsvO-wN2YysAt-5tAPA8voVmSZwiDhpo/edit#gid=1555657742)
+	> Showcasing various formulas used on mock live stream data, including string manipulation, `VLOOKUP`, `QUERY` and more.
+* Contract Mapping Data: [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDbbqJsxwK4afVKy83sv6YXPaaIl9ok2P2jR1xXzy6KRqVnr7FmDoMkcqU9hig6afMdeezVcw7XkSH/pubhtml?gid=2010534843) - [Source](https://docs.google.com/spreadsheets/d/1K-FOcZb0SAYr0Sp-IiV6OhutCgJqUPzJfLutC1Juxas/edit#gid=2010534843)
+	> Showcasinng my previous work using mock contract classification in projection of current user settings. Includes simple dashboarding using Pivot Table and Chart.
+
+<p align="right"><a href="#portfolio">Back to top</a></p>
+</details>
+
+<h2 id="old-repositories">Old Repositories:</h2>
+<details>
+	<summary>[Expand]</summary>
+
+* [Hong-Kong University Web Page Course Submission (HTML, CSS, JavaScript)](https://github.com/henryjahja/t3informationsystem)
+* [Dhea Thesis (Vanilla PHP)](https://github.com/henryjahja/dhea-konseling)
+* [T3 Information System (CodeIgniter PHP)](https://github.com/henryjahja/t3informationsystem)
+
 </details>
 <p align="right"><a href="#portfolio">Back to top</a></p>
