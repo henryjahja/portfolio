@@ -5,6 +5,7 @@ Files will include (Google) Spreadsheet, Python (vanilla and notebook), and all 
 Looking forward to add more.
 #### Navigation:
 * [Python](#python-scripts)
+* [SQL](#sql)
 * [Google Spreadsheet](#google-spreadsheet)
 * [Old Repositories](#old-repositories)
 
@@ -25,7 +26,6 @@ Looking forward to add more.
 
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
-
 <details>
 	<summary>
 	<b id="singletons">Singletons</b>
@@ -65,6 +65,19 @@ Looking forward to add more.
 * IMDB Sentiment with TensorFlow: [Link](https://github.com/henryjahja/Portfolio/blob/main/Python/NoteBooks/NLP/IMDB%20Sentiment.ipynb)
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
+
+<h2 id="sql">SQL:</h2>
+<details>
+
+* Transaction: [Link](https://github.com/henryjahja/Portfolio/SQL/Transactions%20by%20Department%20Analysis.ipynb)
+> Using Window Function, to find the share of each employee's sales and their share by department.
+
+
+
+<p align="right"><a href="#portfolio">Back to top</a></p>
+</details>
+
+
 
 <h2 id="google-spreadsheet">Google Spreadsheet:</h2>
 <details>
