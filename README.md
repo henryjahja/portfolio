@@ -68,12 +68,10 @@ Looking forward to add more.
 
 <h2 id="sql">SQL:</h2>
 <details>
+	<summary>[Expand]</summary>
 
-* Transaction: [Link](https://github.com/henryjahja/Portfolio/SQL/Transactions%20by%20Department%20Analysis.ipynb)
+* Transaction: [Link](https://github.com/henryjahja/Portfolio/blob/main/SQL/Transactions%20by%20Department%20Analysis.ipynb)
 > Using Window Function, to find the share of each employee's sales and their share by department.
-
-
-
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
 
