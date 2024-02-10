@@ -1,5 +1,8 @@
 # Portfolio
-This is a repository dedicated to showcase my work.
+This is a repository dedicated to showcase my work.  
+[Resume](https://bit.ly/henry-latest-resume) |
+[LinkedIn](https://www.linkedin.com/in/henryjahja/) |
+[Tableau](https://public.tableau.com/app/profile/henry.jahja/vizzes)
 #### Navigation:
 * [Python](#python-scripts)
 * [SQL](#sql)
