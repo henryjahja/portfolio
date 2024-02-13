@@ -89,7 +89,6 @@ This is a repository dedicated to showcase my work.
 	> Short version.
 	* Version 2 - [Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqC-sUynObqGM515bokiidYEOHaTiwIYMLsyjyXNruID2vZE4fN8vM2mNb-Qsfaoyt3nYL2x00EF4l/pubhtml) - [Source](https://docs.google.com/spreadsheets/d/1aQsINnuQpJLO9xkwpi7K2arNMn2_rP2DLQqRgaCxK_U/view)
 	> Closer to the actual architecture.
-* 
 
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
