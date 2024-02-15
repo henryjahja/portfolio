@@ -69,9 +69,14 @@ This is a repository dedicated to showcase my work.
 <h2 id="sql">SQL:</h2>
 <details>
 	<summary>[Expand]</summary>
-
+	
+* Mock SQL Interview Test - Solving problem of test found on the internet:
+	* [User conversion rate](https://github.com/henryjahja/Portfolio/blob/main/SQL/Technical%20Interview%20Test0.ipynb)
+	
 * Transaction: [Link](https://github.com/henryjahja/Portfolio/blob/main/SQL/Transactions%20by%20Department%20Analysis.ipynb)
-> Using Window Function, to find the share of each employee's sales and their share by department.
+	> Using Window Function, to find the share of each employee's sales and their share by department.
+* Manager Randomizer:[Link](https://github.com/henryjahja/Portfolio/blob/main/SQL/Raw%20SQL%20Scripts/Manager%20Randomizer.sql)
+	> Based on [User table](https://github.com/henryjahja/Portfolio/blob/main/SQL/Raw%20SQL%20Scripts/User%20Table%20Upload.sql), generate `manager_id` and `supervisor_id` with a rule that `manager_id` can't be lower than `user_id`, and `supervisor_id` must be between `manager_id` and `user_id - 1`.
 <p align="right"><a href="#portfolio">Back to top</a></p>
 </details>
 
