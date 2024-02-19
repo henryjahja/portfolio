@@ -1,11 +1,14 @@
 .vscode
-Python/NoteBooks/LLM Example.ipynb
-Python/API Example.ipynb
-Python/Singletons/__pycache__
-Python/NoteBooks/Tweet Collection.csv
-Python/NoteBooks/Tweet Collection
 Data/tweets_new_format.js
 Data/tweets_old_format/
-Python/NoteBooks/Tweet Collection v2.csv
-Python/NoteBooks/sensitivevariable.py
+
+Python/API Example.ipynb
+
 Python/NoteBooks/__pycache__/sensitivevariable.cpython-311.pyc
+Python/NoteBooks/LLM Example.ipynb
+Python/NoteBooks/sensitivevariable.py
+Python/NoteBooks/Tweet Collection
+Python/NoteBooks/Tweet Collection.csv
+Python/NoteBooks/Tweet Collection v2.csv
+
+Python/Singletons/__pycache__
