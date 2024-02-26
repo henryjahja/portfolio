@@ -1,6 +1,5 @@
 .vscode
-Data/tweets_new_format.js
-Data/tweets_old_format/
+Data/Private Data/
 
 Python/API Example.ipynb
 
