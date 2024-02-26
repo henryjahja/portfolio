@@ -3,11 +3,9 @@ Data/Private Data/
 
 Python/API Example.ipynb
 
-Python/NoteBooks/__pycache__/sensitivevariable.cpython-311.pyc
-Python/NoteBooks/LLM Example.ipynb
+Python/NoteBooks/__pycache__/
 Python/NoteBooks/sensitivevariable.py
-Python/NoteBooks/Tweet Collection
-Python/NoteBooks/Tweet Collection.csv
-Python/NoteBooks/Tweet Collection v2.csv
+
+Python/NoteBooks/LLM Example.ipynb
 
 Python/Singletons/__pycache__
